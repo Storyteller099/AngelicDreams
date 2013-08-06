@@ -1,0 +1,26 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style1 {
+	color: #8B8451;
+	font-size: 13px;
+	font-family: Geneva, Arial, Helvetica;
+}
+.style2 {
+	color: #266A36;
+	font-size: 13px;
+	font-family: tahoma;
+}
+.style3 {
+	color: #111111;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style4 {
+	color: #266A36;
+	font-size: 11px;
+	font-family: tahoma;
+}
